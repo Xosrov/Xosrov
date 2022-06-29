@@ -47,7 +47,7 @@ dateTimeHtml = f'''<html lang="en">
         }}
         .container {{
             margin: 3px 0 0 0;
-            box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 20px -1px, rgba(0, 0, 0, 0.3) 0px 1px 10px -1px;
+            box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
             background-color: {BASE_COLOR};
             border-radius: 8px 0 0 8px;
             display: flex;
@@ -114,7 +114,7 @@ elif weatherID == 800:
 
 # transition html
 transitionHtml = f'''
-<div style="position: absolute; top: 3px; left: 0px; width:300px; height:30px; box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 20px -1px, rgba(0, 0, 0, 0.3) 0px 1px 10px -1px; background: {ACCENT_COLOR}; background: linear-gradient(90deg, {ACCENT_COLOR} 0%, {current_weather_stat} 100%);">
+<div style="position: absolute; top: 3px; left: 0px; width:300px; height:30px; box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px; background: {ACCENT_COLOR}; background: linear-gradient(90deg, {ACCENT_COLOR} 0%, {current_weather_stat} 100%);">
 </div>
 '''
 
@@ -135,7 +135,7 @@ weatherHtml = f'''<html lang="en">
             padding-right: 10px;
             border-radius: 0 10px 10px 0;
             margin: 3px 0 0 0;
-            box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 20px -1px, rgba(0, 0, 0, 0.3) 0px 1px 10px -1px;
+            box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
             background-color: {current_weather_stat};
             display: flex;
             width: max-content;
@@ -163,7 +163,7 @@ weatherHtml = f'''<html lang="en">
 htmi = Html2Image()
 htmi._output_path = CURRENT_PATH.joinpath("images")
 htmi.screenshot(
-    size=(230, 36),
+    size=(235, 36),
     html_str=dateTimeHtml,
     save_as="date.png",
 )
