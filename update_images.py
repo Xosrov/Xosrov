@@ -46,7 +46,7 @@ dateTimeHtml = f'''<html lang="en">
             display: contents;
         }}
         .container {{
-            margin: 3px 0 0 0;
+            margin: 3px 0 0 5px;
             box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
             background-color: {BASE_COLOR};
             border-radius: 8px 0 0 8px;
@@ -134,7 +134,7 @@ weatherHtml = f'''<html lang="en">
             align-items: center;
             padding-right: 10px;
             border-radius: 0 10px 10px 0;
-            margin: 3px 0 0 0;
+            margin: 3px 5px 0 0;
             box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
             background-color: {current_weather_stat};
             display: flex;
