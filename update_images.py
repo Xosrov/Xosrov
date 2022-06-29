@@ -143,7 +143,8 @@ weatherHtml = f'''<html lang="en">
             width: 210px;
         }}
         .container::after {{
-            content: '@{CITY}';
+            content: 'Weather\A@{CITY}';
+            white-space: pre;
             font-size: 7px;
             font-style: italic;
             margin-left: 2px;
