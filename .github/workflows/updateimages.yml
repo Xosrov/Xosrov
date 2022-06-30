@@ -26,8 +26,4 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add images/date.png
-          git add images/weather.png
-          git add images/transition.png
-          git commit -m "updated dynamic images"
-          git push
+          git diff-index --quiet HEAD || (git commit -am "[bot] updated images" --allow-empty && git push -f)
