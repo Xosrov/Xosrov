@@ -20,7 +20,7 @@ I'm currently an Engineering student, and my love for programming has helped me 
 
 ## Stats
 <p align="center" style="max-width=80%;">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xosrov&layout=compact&bg_color=461220&hide_border=true&text_color=c73f1d&title_color=c73f1d&theme=dark&border_radius=4.5" style="display:inline;"/>
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Xosrov&theme=dark&ring=c73f1d&currStreakNum=ffffff&fire=c73f1d&currStreakLabel=c73f1d&hide_border=true&background=461220&border_radius=4.5" style="display:inline;"/>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xosrov&layout=compact&bg_color=461220&hide_border=true&text_color=c73f1d&title_color=c73f1d&theme=dark&border_radius=4.5" style="display:inline;"/>
+  <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=Xosrov&theme=dark&ring=c73f1d&currStreakNum=ffffff&fire=c73f1d&currStreakLabel=c73f1d&hide_border=true&background=461220&border_radius=4.5" style="display:inline;"/>
 </p>
 
