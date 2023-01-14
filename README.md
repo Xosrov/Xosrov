@@ -15,7 +15,7 @@ I'm currently an Engineering student, and my love for programming has helped me 
 - 🤔 Would love to learn more about __Big Data Management__ and Planning to learn __Rust__ soon.  
 - 👨‍💻 Currently rocking [Void Linux](https://voidlinux.org/) and [DWM](https://dwm.suckless.org/), Though Windows is still a part of my life🙂
 
-## Lifetime Timeline
+## Timeline
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'themeVariables': {'commitLabelFontSize': '9px'}, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Education','mainBranchOrder': 2}} }%%
     gitGraph
@@ -25,24 +25,24 @@ I'm currently an Engineering student, and my love for programming has helped me 
     commit id:"Learning C++"
     commit id:"RoboCup Participation"
     checkout Education
-    commit id:"Started University" type: NORMAL tag: "Learned C"
+    commit id:"Started University" tag: "Learned C"
     commit id:"Undergrad year 1"
     checkout Projects
     commit id: "C++ SFML GUI"
     commit id: "Learning Python"
     commit id: "HTTP Concepts"
     checkout Education
-    commit id:"Undergrad year 2" type: NORMAL
+    commit id:"Undergrad year 2"
     checkout Projects
     commit id: "Web Automation"
     checkout Education
-    commit id:"Undergrad year 3" type: NORMAL tag: "Covid-19"
+    commit id:"Undergrad year 3" tag: "Covid-19"
     checkout Projects
     commit id: "Learning Go"
     commit id: "Learning WebRTC"
-    checkout Education
-    commit id:"Undergrad year 4" type: NORMAL
     branch Work order: 3
+    checkout Education
+    commit id:"Undergrad year 4"
     checkout Projects
     commit id: "Start Undergrad Project" tag: "Research Experience"
     checkout Work
@@ -54,7 +54,7 @@ I'm currently an Engineering student, and my love for programming has helped me 
     checkout Projects
     commit id: "Working with Unity" tag: "Research Experience"
     checkout Education
-    commit id:"Undergrad year 5" type: NORMAL
+    commit id:"Undergrad year 5"
     commit id: "Now" type: HIGHLIGHT
 ```
 
