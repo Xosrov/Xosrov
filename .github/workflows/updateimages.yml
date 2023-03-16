@@ -16,7 +16,7 @@ jobs:
           python-version: '3.x'
           cache: 'pip'
       - name: Install Dependencies
-        run: python -m pip install html2image requests
+        run: python -m pip install html2image==2.0.1 requests
       - name: Generate Images
         env:
           WEATHER_API: ${{ secrets.WEATHER_API }}
