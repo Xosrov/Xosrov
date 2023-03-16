@@ -1,11 +1,17 @@
 Hi there, I'm Alireza :wave:
 ===========================
-‎<p align="center">
-    ![Date and Weather Where I Live](images/date.png)![](images/transition.png)![Weather](images/weather.png)  
-</p>
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Xosrov"> 
-</p>
+```mermaid
+mindmap
+  root((Hello!))
+    )Weather(
+        (Clouds)
+        (few clouds)
+    {{Local}}
+        (Updated 18:44 UTC)
+        (16 Mar 2023)
+    Location
+        (Tehran)
+```
  
 I'm currently an Engineering student, and my love for programming has helped me explore various fields. Currently mainly working with GStreamer, C, Go and  occasionally HTTP/WebSocket automation with Python.  
 
