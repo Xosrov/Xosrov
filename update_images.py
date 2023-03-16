@@ -3,8 +3,7 @@ import requests
 import pathlib
 
 README_FILE = pathlib.Path(__file__).parent.resolve().joinpath("README.md")
-# WEATHER_TOKEN = os.environ["WEATHER_API"]
-WEATHER_TOKEN = "53f75ef04b011a8fe6159562e42d3cbe"
+WEATHER_TOKEN = os.environ["WEATHER_API"]
 CITY = "Tehran"
 
 MONTHS = [
