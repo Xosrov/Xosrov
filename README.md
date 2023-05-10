@@ -7,7 +7,7 @@ mindmap
         (Rain)
         (light rain)
     {{Local}}
-        (Updated 00:35 UTC)
+        (Updated 06:09 UTC)
         (10 May 2023)
     Location
         (Tehran)
