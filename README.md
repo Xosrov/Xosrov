@@ -7,7 +7,7 @@ mindmap
         (Dust)
         (dust)
     {{Local}}
-        (Updated 06:08 UTC)
+        (Updated 12:11 UTC)
         (14 May 2023)
     Location
         (Tehran)
