@@ -13,13 +13,13 @@ mindmap
         (Tehran)
 ```
  
-I'm currently an Engineering student, and my love for programming has helped me explore various fields. Currently mainly working with GStreamer, C, Go and  occasionally HTTP/WebSocket automation with Python.  
+Software engineer and avid learner. My passion for software has led me to explore various fields, such as cloud gaming and web scraping. Currently exploring the every growing microservice architecture and building domain-driven and clean software.
 
 ## About me  
 - 🌱 I enjoy music, nature, gaming and fictional stories.  
-- 🔭 Interested in __web scraping__, __web automation__, __WebRTC__ & __livestreaming__. In love with [__GStremer__](https://gitlab.freedesktop.org/Xosrov) and the dynamic pipeline system.  
-- 🤔 Would love to learn more about __Big Data Management__ and Planning to learn __Rust__ soon.  
-- 👨‍💻 Currently rocking [Void Linux](https://voidlinux.org/) and [DWM](https://dwm.suckless.org/), Though Windows is still a part of my life🙂
+- 🔭 Interested in __web scraping__, __web automation__, __WebRTC__, __microservice architecture__ and __DDD__.
+- 🤔 Would love to learn more about __Big Data Management__ and learn __Rust__.  
+- 👨‍💻 Currently rocking [Void Linux](https://voidlinux.org/) with Xfce, Though Windows is still a part of my life🙂
 
 ## Timeline
 ```mermaid
@@ -61,12 +61,13 @@ I'm currently an Engineering student, and my love for programming has helped me 
     commit id: "Working with Unity" tag: "Research Experience"
     checkout Education
     commit id:"Undergrad year 5"
-    commit id: "Now" type: HIGHLIGHT
+    checkout Work
+    commit id: "Joined OMP Finex (now)" tag: "Software Engineer"
 ```
 
 ## Stats
 <p align="center" style="max-width=80%;">
   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xosrov&layout=compact&bg_color=461220&hide_border=true&text_color=c73f1d&title_color=c73f1d&theme=dark&border_radius=4.5"/>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xosrov&theme=dark&ring=c73f1d&currStreakNum=ffffff&fire=c73f1d&currStreakLabel=c73f1d&hide_border=true&background=461220&border_radius=4.5"/>
+
 </p>
 
