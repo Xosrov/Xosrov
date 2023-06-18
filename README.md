@@ -7,7 +7,7 @@ mindmap
         (Clear)
         (clear sky)
     {{Local}}
-        (Updated 06:08 UTC)
+        (Updated 12:11 UTC)
         (18 Jun 2023)
     Location
         (Tehran)
