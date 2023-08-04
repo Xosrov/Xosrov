@@ -7,7 +7,7 @@ mindmap
         (Clouds)
         (scattered clouds)
     {{Local}}
-        (Updated 00:39 UTC)
+        (Updated 06:09 UTC)
         (4 Aug 2023)
     Location
         (Tehran)
