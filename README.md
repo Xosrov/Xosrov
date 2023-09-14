@@ -23,8 +23,8 @@ Software engineer and avid learner. My passion for software has led me to explor
 
 ## Timeline
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'themeVariables': {'commitLabelFontSize': '9px'}, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Education','mainBranchOrder': 2}} }%%
-    gitGraph
+%%{init: { 'logLevel': 'debug', 'themeVariables': {'commitLabelFontSize': '8px'}, 'gitGraph': {'showBranches': true, 'showCommitLabel':true,'mainBranchName': 'Education','mainBranchOrder': 2}} }%%
+gitGraph
     commit id:"High School"
     branch Projects order: 1
     checkout Projects
@@ -49,20 +49,26 @@ Software engineer and avid learner. My passion for software has led me to explor
     branch Work order: 3
     checkout Education
     commit id:"Undergrad year 4"
-    checkout Projects
-    commit id: "Start Undergrad Project" tag: "Research Experience"
     checkout Work
-    commit id: "Joined Peranix" tag: "Live-Streaming Engineer"
+    commit id: "Joined Peranix" tag: "Software Engineer (Streaming)"
     checkout Projects
     commit id: "Learned C#"
-    checkout Work
-    commit id: "Working with GStreamer (C)"
     checkout Projects
-    commit id: "Working with Unity" tag: "Research Experience"
+    commit id: "Working with Unity" tag: "Research"
     checkout Education
-    commit id:"Undergrad year 5"
+    commit id: "Undergrad year 5"
+    checkout Projects
+    commit id: "Open-Sourced Peranix Code"
     checkout Work
-    commit id: "Joined OMP Finex (now)" tag: "Software Engineer"
+    commit id: "Joined OMP Finex" tag: "Software Engineer (Microservices)"
+    checkout Projects
+    commit id: "Submitted Undergrad Proj." tag: "Research"
+    checkout Education
+    commit id: "Graduated BTech" type: HIGHLIGHT
+    checkout Projects
+    commit id: "Submitted 2 Papers" tag: "Research"
+    checkout Work
+    commit id: "Joined SabaIdea" tag: "Software Engineer (VOD - R&D)"
 ```
 
 ## Stats
