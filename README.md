@@ -5,9 +5,9 @@ mindmap
   root((Hello!))
     )Weather(
         (Clouds)
-        (few clouds)
+        (broken clouds)
     {{Local}}
-        (Updated 00:35 UTC)
+        (Updated 06:09 UTC)
         (23 Nov 2023)
     Location
         (Tehran)
