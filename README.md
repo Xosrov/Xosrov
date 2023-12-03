@@ -7,7 +7,7 @@ mindmap
         (Haze)
         (haze)
     {{Local}}
-        (Updated 00:37 UTC)
+        (Updated 06:08 UTC)
         (3 Dec 2023)
     Location
         (Tehran)
