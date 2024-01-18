@@ -13,13 +13,13 @@ mindmap
         (Tehran)
 ```
  
-Software engineer and avid learner. My passion for software has led me to explore various fields, such as cloud gaming and web scraping. Currently exploring the every growing microservice architecture and building domain-driven and clean software.
+Software engineer and avid learner. My passion for software has led me to explore various fields, such as web scraping, cloud gaming and multimedia. Currently exploring the aspects of creating scalable multimedia pipelines, as well as applied machine learning in different aspects of image and video processing.
 
 ## About me  
 - 🌱 I enjoy music, nature, gaming and fictional stories.  
-- 🔭 Interested in __web scraping__, __web automation__, __WebRTC__, __microservice architecture__ and __DDD__.
-- 🤔 Would love to learn more about __Big Data Management__ and learn __Rust__.  
-- 👨‍💻 Currently rocking [Void Linux](https://voidlinux.org/) with Xfce, Though Windows is still a part of my life🙂
+- 🔭 Interested in __web scraping__, __web automation__, __WebRTC__, __microservice architecture__, __DDD__, __multimedia__ and __encoding pipelines__.
+- 🤔 Would love to learn more about __Big Data Management__ and learn __Rust__ & __Zig__.
+- 👨‍💻 Favorite Linux distro is [Void Linux](https://voidlinux.org/)
 
 ## Timeline
 ```mermaid
@@ -49,31 +49,26 @@ gitGraph
     branch Work order: 3
     checkout Education
     commit id:"Undergrad year 4"
+    commit id: "Learned C#"
+    commit id: "Working with Unity" tag: "Research"
     checkout Work
     commit id: "Joined Peranix" tag: "Software Engineer (Streaming)"
-    checkout Projects
-    commit id: "Learned C#"
-    checkout Projects
-    commit id: "Working with Unity" tag: "Research"
     checkout Education
     commit id: "Undergrad year 5"
     checkout Projects
     commit id: "Open-Sourced Peranix Code"
     checkout Work
     commit id: "Joined OMP Finex" tag: "Software Engineer (Microservices)"
-    checkout Projects
-    commit id: "Submitted Undergrad Proj." tag: "Research"
     checkout Education
+    commit id: "Undergrad Proj." tag: "Research"
     commit id: "Graduated BTech" type: HIGHLIGHT
+    commit id: "3 Conference Papers" tag: "Research"
     checkout Projects
-    commit id: "Submitted 2 Papers" tag: "Research"
+    commit id: "Started Blog"
     checkout Work
     commit id: "Joined SabaIdea" tag: "Software Engineer (VOD - R&D)"
 ```
 
-## Stats
-<p align="center" style="max-width=80%;">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xosrov&layout=compact&bg_color=461220&hide_border=true&text_color=c73f1d&title_color=c73f1d&theme=dark&border_radius=4.5"/>
+## Links
 
-</p>
-
+Check out my [blog](https://xosrov.github.io/blog/).
