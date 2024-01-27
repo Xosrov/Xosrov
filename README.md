@@ -7,7 +7,7 @@ mindmap
         (Mist)
         (mist)
     {{Local}}
-        (Updated 12:10 UTC)
+        (Updated 18:07 UTC)
         (27 Jan 2024)
     Location
         (Tehran)
