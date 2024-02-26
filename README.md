@@ -7,7 +7,7 @@ mindmap
         (Snow)
         (light snow)
     {{Local}}
-        (Updated 00:35 UTC)
+        (Updated 06:10 UTC)
         (26 Feb 2024)
     Location
         (Tehran)
