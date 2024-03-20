@@ -4,10 +4,10 @@ Hi there, I'm Alireza :wave:
 mindmap
   root((Hello!))
     )Weather(
-        (Rain)
-        (light intensity shower rain)
+        (Clouds)
+        (few clouds)
     {{Local}}
-        (Updated 00:33 UTC)
+        (Updated 06:09 UTC)
         (20 Mar 2024)
     Location
         (Tehran)
