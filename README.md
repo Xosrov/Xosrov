@@ -5,10 +5,10 @@ mindmap
   root((Hello!))
     )Weather(
         (Clouds)
-        (broken clouds)
+        (scattered clouds)
     {{Local}}
-        (Updated 18:09 UTC)
-        (26 May 2024)
+        (Updated 00:37 UTC)
+        (27 May 2024)
     Location
         (Tehran)
 ```
