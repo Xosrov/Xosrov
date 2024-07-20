@@ -13,13 +13,12 @@ mindmap
         (Tehran)
 ```
  
-Software engineer and avid learner. My passion for software has led me to explore various fields, such as web scraping, cloud gaming and multimedia. Currently exploring the aspects of creating scalable multimedia pipelines, as well as applied machine learning in different aspects of image and video processing.
+Software engineer and avid learner. My passions change over time, but I've dabbed into web scraping, microservices, multimedia and applied ML. Currently exploring video and codec concepts in more depth. The best source of knowledge is the experience of others, so I try to share my experiences in my [blog](https://xosrov.github.io/).  
 
 ## About me  
 - 🌱 I enjoy music, nature, gaming and fictional stories.  
-- 🔭 Interested in __web scraping__, __web automation__, __WebRTC__, __microservice architecture__, __DDD__, __multimedia__ and __encoding pipelines__.
-- 🤔 Would love to learn more about __Big Data Management__ and learn __Rust__ & __Zig__.
-- 👨‍💻 Favorite Linux distro is [Void Linux](https://voidlinux.org/)
+- 🤔 Would love to learn more about __Big Data Management__ and learn __Rust__ & __Zig__.  
+- 👨‍💻 Favorite Linux distro is [Void Linux](https://voidlinux.org/).  
 
 ## Timeline
 ```mermaid
@@ -52,23 +51,21 @@ gitGraph
     commit id: "Learned C#"
     commit id: "Working with Unity" tag: "Research"
     checkout Work
-    commit id: "Joined Peranix" tag: "Software Engineer (Streaming)"
+    commit id: "Joined Peranix" tag: "Streaming"
     checkout Education
     commit id: "Undergrad year 5"
     checkout Projects
     commit id: "Open-Sourced Peranix Code"
     checkout Work
-    commit id: "Joined OMP Finex" tag: "Software Engineer (Microservices)"
+    commit id: "Joined OMP Finex" tag: "Microservices"
     checkout Education
     commit id: "Undergrad Proj." tag: "Research"
     commit id: "Graduated BTech" type: HIGHLIGHT
     commit id: "3 Conference Papers" tag: "Research"
+    checkout Work
+    commit id: "Joined SabaIdea" tag: "VOD - R&D"
     checkout Projects
     commit id: "Started Blog"
     checkout Work
-    commit id: "Joined SabaIdea" tag: "Software Engineer (VOD - R&D)"
+    commit id: "Joined Cinemo" tag: "Embedded"
 ```
-
-## Links
-
-Check out my [blog](https://xosrov.github.io/blog/).

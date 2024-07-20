@@ -5,7 +5,7 @@ import os
 
 README_FILE = pathlib.Path(__file__).parent.resolve().joinpath("README.md")
 WEATHER_TOKEN = os.environ["WEATHER_API"]
-CITY = "Tehran"
+CITY = "Karlsruhe"
 
 MONTHS = [
     "Jan",
