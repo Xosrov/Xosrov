@@ -5,12 +5,12 @@ mindmap
   root((Hello!))
     )Weather(
         (Clouds)
-        (few clouds)
+        (overcast clouds)
     {{Local}}
-        (Updated 18:10 UTC)
-        (20 Jul 2024)
+        (Updated 00:42 UTC)
+        (21 Jul 2024)
     Location
-        (Tehran)
+        (Karlsruhe)
 ```
  
 Software engineer and avid learner. My passions change over time, but I've dabbed into web scraping, microservices, multimedia and applied ML. Currently exploring video and codec concepts in more depth. The best source of knowledge is the experience of others, so I try to share my experiences in my [blog](https://xosrov.github.io/).  
