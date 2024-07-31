@@ -4,10 +4,10 @@ Hi there, I'm Alireza :wave:
 mindmap
   root((Hello!))
     )Weather(
-        (Clear)
-        (clear sky)
+        (Clouds)
+        (scattered clouds)
     {{Local}}
-        (Updated 06:10 UTC)
+        (Updated 12:15 UTC)
         (31 Jul 2024)
     Location
         (Karlsruhe)
