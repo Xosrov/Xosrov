@@ -7,7 +7,7 @@ mindmap
         (Clouds)
         (broken clouds)
     {{Local}}
-        (Updated 06:16 UTC)
+        (Updated 12:20 UTC)
         (14 Apr 2025)
     Location
         (Karlsruhe)
