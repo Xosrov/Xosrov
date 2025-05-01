@@ -7,7 +7,7 @@ mindmap
         (Clear)
         (clear sky)
     {{Local}}
-        (Updated 06:16 UTC)
+        (Updated 12:19 UTC)
         (1 May 2025)
     Location
         (Karlsruhe)
