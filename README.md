@@ -7,7 +7,7 @@ mindmap
         (Rain)
         (light rain)
     {{Local}}
-        (Updated 00:50 UTC)
+        (Updated 06:14 UTC)
         (25 Oct 2025)
     Location
         (Karlsruhe)
