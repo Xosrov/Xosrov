@@ -7,7 +7,7 @@ mindmap
         (Clouds)
         (overcast clouds)
     {{Local}}
-        (Updated 01:02 UTC)
+        (Updated 06:22 UTC)
         (12 Jan 2026)
     Location
         (Karlsruhe)
