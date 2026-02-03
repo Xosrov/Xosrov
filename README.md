@@ -7,7 +7,7 @@ mindmap
         (Snow)
         (light snow)
     {{Local}}
-        (Updated 06:37 UTC)
+        (Updated 12:35 UTC)
         (3 Feb 2026)
     Location
         (Karlsruhe)
