@@ -5,10 +5,10 @@ mindmap
   root((Hello!))
     )Weather(
         (Clouds)
-        (broken clouds)
+        (scattered clouds)
     {{Local}}
-        (Updated 19:08 UTC)
-        (2 Jul 2026)
+        (Updated 01:56 UTC)
+        (3 Jul 2026)
     Location
         (Karlsruhe)
 ```
