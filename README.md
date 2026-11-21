@@ -7,7 +7,7 @@ mindmap
         (Clouds)
         (scattered clouds)
     {{Local}}
-        (Updated 04:45 UTC)
+        (Updated 13:52 UTC)
         (21 Nov 2026)
     Location
         (Karlsruhe)
